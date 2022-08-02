@@ -1,4 +1,4 @@
-# pantheon-setup
+# Drupal Website Deployment Pantheon
 # Step 1
 terminus site:list
 # Step 2
